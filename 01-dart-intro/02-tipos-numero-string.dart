@@ -1,16 +1,13 @@
 
 void main()  {
   
-  // Strings 
-  final String nombre = 'Tony';
-  final apellido = 'Stark';
+
+  final String nombre = 'Jesus';
+  final apellido = 'Manuel';
   
-//   nombre = 'Peter';
   
   print('$nombre $apellido');
   
-  
-//   Números
   int empleados = 10;
   double salario = 1856.25;
   
